@@ -6,6 +6,7 @@ import { DatabaseModule } from './database/database.module';
 import { ConfigModule } from '@nestjs/config';
 import { EnviromentsConfig } from './commons/enviroments.config';
 import { envConfig } from './commons/env.config';
+import Joi from 'joi';
 
 @Module({
   imports: [
@@ -19,6 +20,13 @@ import { envConfig } from './commons/env.config';
         : '.env.local',
       load: [envConfig],
       isGlobal: true,
+      validationSchema: Joi.object({
+        DATABASE_HOST: Joi.string().required(),
+        DATABASE_PORT: Joi.number().required(),
+        DATABASE_USERNAME: Joi.string().required(),
+        DATABASE_PASSWORD: Joi.string().required(),
+        DATABASE_NAME: Joi.string().required(),
+      }),
     }),
   ],
   controllers: [AppController],
