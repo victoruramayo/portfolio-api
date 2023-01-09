@@ -1,27 +1,18 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, Logger } from '@nestjs/common';
+import { InjectRepository } from '@nestjs/typeorm';
+import { Repository } from 'typeorm';
+import { Users } from '../models/entities/user.entity';
 
 @Injectable()
 export class PortfolioService {
-  private readonly portfolios = [
-    {
-      id: 1,
-      name: 'Portafolio 1',
-    },
-    {
-      id: 2,
-      name: 'Portafolio 2',
-    },
-    {
-      id: 3,
-      name: 'Portafolio 3',
-    },
-    {
-      id: 4,
-      name: 'Portafolio 4',
-    },
-  ];
+  private readonly logger = new Logger(PortfolioService.name);
+  constructor(
+    @InjectRepository(Users)
+    private readonly portfolioRepo: Repository<Users>,
+  ) {}
 
   getAll() {
-    return this.portfolios;
+    this.logger.log('En service');
+    return this.portfolioRepo.find();
   }
 }
