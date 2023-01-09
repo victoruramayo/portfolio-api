@@ -1,7 +1,7 @@
 import { Column, Entity } from 'typeorm';
 
 @Entity('users', { schema: 'auth', synchronize: false })
-export class Users {
+export class User {
   @Column('uuid', { primary: true, name: 'id' })
   id: string;
 
@@ -75,10 +75,4 @@ export class Users {
     nullable: true,
   })
   lastSignInAt: Date | null;
-
-  @Column('timestamp with time zone', { name: 'created_at', nullable: true })
-  createdAt: Date | null;
-
-  @Column('timestamp with time zone', { name: 'updated_at', nullable: true })
-  updatedAt: Date | null;
 }
