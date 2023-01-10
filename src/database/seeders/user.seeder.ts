@@ -1,6 +1,6 @@
 import { Seeder, SeederFactoryManager } from 'typeorm-extension';
 import { DataSource } from 'typeorm';
-import { User } from '../../portfolio/models/entities/user.entity';
+import { User } from '../../auth/models/entities/user.entity';
 import { hash } from 'bcrypt';
 
 export class UserSeeder implements Seeder {

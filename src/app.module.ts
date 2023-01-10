@@ -6,6 +6,7 @@ import { DatabaseModule } from './database/database.module';
 import { ConfigModule } from '@nestjs/config';
 import { EnviromentsConfig } from './commons/enviroments.config';
 import { envConfig } from './commons/env.config';
+import { AuthModule } from './auth/auth.module';
 import Joi from 'joi';
 
 @Module({
@@ -28,6 +29,7 @@ import Joi from 'joi';
         DATABASE_NAME: Joi.string().required(),
       }),
     }),
+    AuthModule,
   ],
   controllers: [AppController],
   providers: [AppService],

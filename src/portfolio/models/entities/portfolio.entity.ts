@@ -6,7 +6,7 @@ import {
   UpdateDateColumn,
 } from 'typeorm';
 
-@Entity()
+@Entity('portfolios')
 export class Portfolio {
   @PrimaryGeneratedColumn()
   id: number;
@@ -14,15 +14,17 @@ export class Portfolio {
   name: string;
 
   @CreateDateColumn({
+    name:'created_at',
     type: 'timestamp',
     default: () => 'NOW()',
   })
-  public created_at: Date;
+  public createdAt: Date;
 
   @UpdateDateColumn({
+    name: 'updated_at',
     type: 'timestamp',
     default: () => 'NOW()',
     onUpdate: 'NOW()',
   })
-  public updated_at: Date;
+  public updatedAt: Date;
 }

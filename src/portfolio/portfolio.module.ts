@@ -3,7 +3,7 @@ import { PortfolioController } from './controller/portfolio.controller';
 import { PortfolioService } from './service/portfolio.service';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Portfolio } from './models/entities/portfolio.entity';
-import { User } from './models/entities/user.entity';
+import { User } from '../auth/models/entities/user.entity';
 
 @Module({
   controllers: [PortfolioController],
