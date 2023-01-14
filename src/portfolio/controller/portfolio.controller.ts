@@ -10,4 +10,10 @@ export class PortfolioController {
     this.logger.log('Here');
     return this.portfolioService.getAll();
   }
+
+  @Get('api')
+  getApikey() {
+    this.logger.log('Here');
+    return this.portfolioService.getApiKey();
+  }
 }

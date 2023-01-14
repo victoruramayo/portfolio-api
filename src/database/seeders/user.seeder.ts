@@ -28,5 +28,8 @@ export class UserSeeder implements Seeder {
     };
     const user = userRepo.create(userData);
     await userRepo.save(user);
+
+    const userFactory = factoryManager.get(User);
+    await userFactory.saveMany(5);
   }
 }

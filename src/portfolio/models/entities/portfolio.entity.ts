@@ -2,29 +2,31 @@ import {
   Column,
   CreateDateColumn,
   Entity,
+  ManyToOne,
   PrimaryGeneratedColumn,
   UpdateDateColumn,
 } from 'typeorm';
+import { UserInfo } from '../../../auth/models/entities/userinfo.entity';
 
 @Entity('portfolios')
 export class Portfolio {
   @PrimaryGeneratedColumn()
   id: number;
-  @Column({ type: 'varchar', length: 255 })
+
+  @Column({ type: 'varchar', length: 255, nullable: false })
   name: string;
 
+  @ManyToOne(() => UserInfo, { nullable: false })
+  userInfo: UserInfo;
+
   @CreateDateColumn({
-    name:'created_at',
     type: 'timestamp',
-    default: () => 'NOW()',
   })
   public createdAt: Date;
 
   @UpdateDateColumn({
-    name: 'updated_at',
     type: 'timestamp',
-    default: () => 'NOW()',
-    onUpdate: 'NOW()',
+    onUpdate: 'now()',
   })
   public updatedAt: Date;
 }

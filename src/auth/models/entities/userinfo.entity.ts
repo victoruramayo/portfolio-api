@@ -1,18 +1,22 @@
 import {
   Column,
   CreateDateColumn,
+  Entity,
   JoinColumn,
-  OneToOne, PrimaryGeneratedColumn,
-  UpdateDateColumn
-} from "typeorm";
+  OneToOne,
+  PrimaryGeneratedColumn,
+  UpdateDateColumn,
+} from 'typeorm';
 import { User } from './user.entity';
 
+@Entity('user_info')
 export class UserInfo {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @Column()
+  @Column({ nullable: false })
   username: string;
+
   @CreateDateColumn({
     name: 'created_at',
     type: 'timestamp',
@@ -25,7 +29,7 @@ export class UserInfo {
   })
   public updatedAt: Date;
 
-  @OneToOne(() => User)
+  @OneToOne(() => User, { nullable: false })
   @JoinColumn()
   user: User;
 }
