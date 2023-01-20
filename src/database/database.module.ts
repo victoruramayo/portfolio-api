@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { envConfig } from '../commons/env.config';
 import { ConfigType } from '@nestjs/config';
+import { SnakeNamingStrategy } from 'typeorm-naming-strategies';
 
 @Module({
   imports: [
@@ -15,6 +16,8 @@ import { ConfigType } from '@nestjs/config';
           password: conf.database.pass,
           database: conf.database.dbName,
           autoLoadEntities: true,
+          //logging: true,
+          namingStrategy: new SnakeNamingStrategy(),
         };
       },
       inject: [envConfig.KEY],

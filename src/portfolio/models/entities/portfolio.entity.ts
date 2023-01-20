@@ -6,7 +6,7 @@ import {
   PrimaryGeneratedColumn,
   UpdateDateColumn,
 } from 'typeorm';
-import { UserInfo } from '../../../auth/models/entities/userinfo.entity';
+import { Profile } from '../../../auth/models/entities/profile.entity';
 
 @Entity('portfolios')
 export class Portfolio {
@@ -16,8 +16,8 @@ export class Portfolio {
   @Column({ type: 'varchar', length: 255, nullable: false })
   name: string;
 
-  @ManyToOne(() => UserInfo, { nullable: false })
-  userInfo: UserInfo;
+  @ManyToOne(() => Profile, { nullable: false })
+  profile: Profile;
 
   @CreateDateColumn({
     type: 'timestamp',

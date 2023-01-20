@@ -2,7 +2,8 @@ import { runSeeder, Seeder, SeederFactoryManager } from 'typeorm-extension';
 import { UserSeeder } from './user.seeder';
 import { DataSource } from 'typeorm';
 import { PortfolioSeeder } from './portfolio.seeder';
-import { UserinfoSeeder } from './userinfo.seeder';
+import { ProfileSeeder } from './profileSeeder';
+import { ProyectSeeder } from './proyectSeeder';
 
 export class MainSeeder implements Seeder {
   async run(
@@ -10,7 +11,8 @@ export class MainSeeder implements Seeder {
     factoryManager: SeederFactoryManager,
   ): Promise<void> {
     await runSeeder(dataSource, UserSeeder);
-    await runSeeder(dataSource, UserinfoSeeder);
+    await runSeeder(dataSource, ProfileSeeder);
     await runSeeder(dataSource, PortfolioSeeder);
+    await runSeeder(dataSource, ProyectSeeder);
   }
 }

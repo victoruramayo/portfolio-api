@@ -6,7 +6,8 @@ import {
   ManyToOne,
   PrimaryGeneratedColumn,
 } from 'typeorm';
-import { UserInfo } from './userinfo.entity';
+import { Profile } from './profile.entity';
+import { Portfolio } from '../../../portfolio/models/entities/portfolio.entity';
 
 export enum ApiTypeUser {
   APP = 'app',
@@ -32,18 +33,22 @@ export class Apikey {
   })
   public createdAt: Date;
 
-  @Column()
-  public expireAt: Date;
+  @Column({ nullable: true })
+  public expireAt?: Date;
 
-  @Column()
-  public lastUsedAt: Date;
+  @Column({ nullable: true })
+  public lastUsedAt?: Date;
 
   @Column({
     type: 'enum',
     enum: ApiTypeUser,
+    nullable: false,
   })
   public userApikey: ApiTypeUser;
 
-  @ManyToOne(() => UserInfo, { nullable: false })
-  public userInfo: UserInfo;
+  @ManyToOne(() => Profile, { nullable: false })
+  public profile: Profile;
+
+  @ManyToOne(() => Portfolio, { nullable: false })
+  public portfolio: Portfolio;
 }

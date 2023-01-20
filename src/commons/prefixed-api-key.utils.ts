@@ -57,10 +57,10 @@ export const extractShortToken = (token: string) => token.split('_')?.[1];
 export const extractLongTokenHash = (token: string) =>
   hashLongToken(extractLongToken(token));
 
-export const getTokenComponents = (token: string) => ({
+export const getTokenComponents = async (token: string) => ({
   longToken: extractLongToken(token),
   shortToken: extractShortToken(token),
-  longTokenHash: hashLongToken(extractLongToken(token)),
+  longTokenHash: await hashLongToken(extractLongToken(token)),
   token,
 });
 

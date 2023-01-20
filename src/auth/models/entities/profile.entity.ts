@@ -3,19 +3,33 @@ import {
   CreateDateColumn,
   Entity,
   JoinColumn,
+  OneToMany,
   OneToOne,
   PrimaryGeneratedColumn,
   UpdateDateColumn,
 } from 'typeorm';
 import { User } from './user.entity';
+import { Proyect } from '../../../portfolio/models/entities/proyect.entity';
 
-@Entity('user_info')
-export class UserInfo {
+@Entity('profiles')
+export class Profile {
   @PrimaryGeneratedColumn()
   id: number;
 
   @Column({ nullable: false })
   username: string;
+
+  @Column({ type: 'varchar', length: 255, nullable: false })
+  names: string;
+
+  @Column({ type: 'varchar', length: 255, nullable: false })
+  paternalSurname: string;
+
+  @Column({ type: 'varchar', length: 255, nullable: true })
+  maternalSurname?: string;
+
+  @Column({ type: 'timestamp', nullable: true })
+  brithDay?: Date;
 
   @CreateDateColumn({
     name: 'created_at',
@@ -32,4 +46,7 @@ export class UserInfo {
   @OneToOne(() => User, { nullable: false })
   @JoinColumn()
   user: User;
+
+  @OneToMany(() => Proyect, (p) => p.profile)
+  proyects: Proyect[];
 }
