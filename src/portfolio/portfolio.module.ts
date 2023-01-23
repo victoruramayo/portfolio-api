@@ -5,11 +5,13 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Portfolio } from './models/entities/portfolio.entity';
 import { User } from '../auth/models/entities/user.entity';
 import { Profile } from '../auth/models/entities/profile.entity';
-import { Proyect } from './models/entities/proyect.entity';
+import { Project } from './models/entities/project.entity';
+import { ProjectController } from './controller/project.controller';
+import { ProjectService } from './service/project.service';
 
 @Module({
-  controllers: [PortfolioController],
-  providers: [PortfolioService],
-  imports: [TypeOrmModule.forFeature([Portfolio, User, Profile, Proyect])],
+  controllers: [PortfolioController, ProjectController],
+  providers: [PortfolioService, ProjectService],
+  imports: [TypeOrmModule.forFeature([Portfolio, User, Profile, Project])],
 })
 export class PortfolioModule {}

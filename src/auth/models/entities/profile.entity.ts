@@ -9,7 +9,7 @@ import {
   UpdateDateColumn,
 } from 'typeorm';
 import { User } from './user.entity';
-import { Proyect } from '../../../portfolio/models/entities/proyect.entity';
+import { Project } from '../../../portfolio/models/entities/project.entity';
 
 @Entity('profiles')
 export class Profile {
@@ -47,6 +47,6 @@ export class Profile {
   @JoinColumn()
   user: User;
 
-  @OneToMany(() => Proyect, (p) => p.profile)
-  proyects: Proyect[];
+  @OneToMany(() => Project, (p) => p.profile)
+  projects: Project[];
 }

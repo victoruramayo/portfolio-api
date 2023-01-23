@@ -6,9 +6,10 @@ import {
   JoinColumn,
 } from 'typeorm';
 import { Profile } from '../../../auth/models/entities/profile.entity';
+import { Portfolio } from './portfolio.entity';
 
 @Entity('proyects')
-export class Proyect {
+export class Project {
   @PrimaryGeneratedColumn()
   id: number;
 
@@ -30,7 +31,14 @@ export class Proyect {
   @Column({ type: 'varchar', length: 255, nullable: true })
   imagen?: string;
 
-  @ManyToOne(() => Profile, (usuario) => usuario.proyects)
+  @ManyToOne(() => Profile, (usuario) => usuario.projects)
   @JoinColumn({ name: 'id_profile' })
   profile: Profile;
+
+  @ManyToOne(() => Portfolio, (p) => p.projects, { nullable: false })
+  @JoinColumn()
+  portfolio: Portfolio;
+
+  @Column({ nullable: false })
+  portfolioId: number;
 }

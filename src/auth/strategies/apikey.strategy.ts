@@ -12,7 +12,7 @@ import { Request } from 'express';
 
 export interface RequestApiKeyGuard extends Request {
   user: Profile;
-  info: { portafolio: Portfolio };
+  authInfo: { portfolio: Portfolio };
 }
 
 @Injectable()

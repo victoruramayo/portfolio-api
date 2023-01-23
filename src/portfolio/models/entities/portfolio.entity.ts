@@ -3,10 +3,12 @@ import {
   CreateDateColumn,
   Entity,
   ManyToOne,
+  OneToMany,
   PrimaryGeneratedColumn,
   UpdateDateColumn,
 } from 'typeorm';
 import { Profile } from '../../../auth/models/entities/profile.entity';
+import { Project } from './project.entity';
 
 @Entity('portfolios')
 export class Portfolio {
@@ -29,4 +31,7 @@ export class Portfolio {
     onUpdate: 'now()',
   })
   public updatedAt: Date;
+
+  @OneToMany(() => Project, (p) => p.portfolio)
+  projects: Project[];
 }

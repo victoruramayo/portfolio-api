@@ -1,9 +1,9 @@
 import { setSeederFactory } from 'typeorm-extension';
 
-import { Proyect } from '../../portfolio/models/entities/proyect.entity';
+import { Project } from '../../portfolio/models/entities/project.entity';
 
-export const ProfileFactory = setSeederFactory(Proyect, (faker) => {
-  const p = new Proyect();
+export const ProfileFactory = setSeederFactory(Project, (faker) => {
+  const p = new Project();
   p.name = faker.name.jobTitle();
   p.description = faker.name.jobDescriptor();
   p.startDate = faker.date.recent();
