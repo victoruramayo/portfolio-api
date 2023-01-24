@@ -20,6 +20,7 @@ import Joi from 'joi';
         ? `.${process.env.NODE_ENV}.env`
         : '.env.local',
       load: [envConfig],
+      ignoreEnvFile: process.env.NODE_ENV === EnviromentsConfig.RAIL,
       isGlobal: true,
       validationSchema: Joi.object({
         DATABASE_HOST: Joi.string().required(),
