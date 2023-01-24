@@ -9,5 +9,8 @@ export const envConfig = registerAs('config', () => {
       pass: process.env.DATABASE_PASSWORD,
       dbName: process.env.DATABASE_NAME,
     },
+    apikey: {
+      prefix: process.env.APP_PREFIX,
+    },
   };
 });

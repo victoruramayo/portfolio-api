@@ -27,6 +27,7 @@ import Joi from 'joi';
         DATABASE_USERNAME: Joi.string().required(),
         DATABASE_PASSWORD: Joi.string().required(),
         DATABASE_NAME: Joi.string().required(),
+        APP_PREFIX: Joi.string().required(),
       }),
     }),
     AuthModule,
