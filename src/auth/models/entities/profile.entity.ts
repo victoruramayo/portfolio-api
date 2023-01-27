@@ -31,6 +31,15 @@ export class Profile {
   @Column({ type: 'timestamp', nullable: true })
   brithDay?: Date;
 
+  @Column({ type: 'text', nullable: true })
+  aboutMe: string;
+
+  @Column({ type: 'varchar', length: 255, nullable: true })
+  jobPosition: string;
+
+  @Column({ type: 'varchar', length: 255, nullable: true })
+  imageUrl: string;
+
   @CreateDateColumn({
     name: 'created_at',
     type: 'timestamp',
