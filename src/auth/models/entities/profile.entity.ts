@@ -10,6 +10,7 @@ import {
 } from 'typeorm';
 import { User } from './user.entity';
 import { Project } from '../../../portfolio/models/entities/project.entity';
+import { SocialNetwork } from '../../../social-network/models/SocialNetwork.entity';
 
 @Entity('profiles')
 export class Profile {
@@ -58,4 +59,7 @@ export class Profile {
 
   @OneToMany(() => Project, (p) => p.profile)
   projects: Project[];
+
+  @OneToMany(() => SocialNetwork, (s) => s.profile)
+  socialNetworks: SocialNetwork[];
 }

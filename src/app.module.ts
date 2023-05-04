@@ -7,6 +7,7 @@ import { ConfigModule } from '@nestjs/config';
 import { EnviromentsConfig } from './commons/enviroments.config';
 import { envConfig } from './commons/env.config';
 import { AuthModule } from './auth/auth.module';
+import { SocialNetworkModule } from './social-network/social-network.module';
 import Joi from 'joi';
 
 @Module({
@@ -32,6 +33,7 @@ import Joi from 'joi';
       }),
     }),
     AuthModule,
+    SocialNetworkModule,
   ],
   controllers: [AppController],
   providers: [AppService],

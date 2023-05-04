@@ -4,6 +4,7 @@ import { DataSource } from 'typeorm';
 import { PortfolioSeeder } from './portfolio.seeder';
 import { ProfileSeeder } from './profileSeeder';
 import { ProjectSeeder } from './projectSeeder';
+import { SocialNetworkSeeder } from './socialNetwork.seeder';
 
 export class MainSeeder implements Seeder {
   async run(
@@ -14,5 +15,6 @@ export class MainSeeder implements Seeder {
     await runSeeder(dataSource, ProfileSeeder);
     await runSeeder(dataSource, PortfolioSeeder);
     await runSeeder(dataSource, ProjectSeeder);
+    await runSeeder(dataSource, SocialNetworkSeeder);
   }
 }
