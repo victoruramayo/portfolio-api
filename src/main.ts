@@ -9,7 +9,11 @@ async function bootstrap() {
     .setTitle('SaaS Portfolio')
     .setDescription('SaaS for create API Portfolio')
     .setVersion('1.0')
-    .addTag('portfolio')
+    .addTag('Portfolio')
+    .addApiKey(
+      { type: 'apiKey', name: 'Authorization', in: 'header' },
+      'Api-Key',
+    )
     .build();
 
   const document = SwaggerModule.createDocument(app, config);
