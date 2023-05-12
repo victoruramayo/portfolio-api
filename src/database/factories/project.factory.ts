@@ -1,6 +1,9 @@
 import { setSeederFactory } from 'typeorm-extension';
 
-import { Project } from '../../portfolio/models/entities/project.entity';
+import {
+  Project,
+  ProjectType,
+} from '../../portfolio/models/entities/project.entity';
 
 export const ProfileFactory = setSeederFactory(Project, (faker) => {
   const p = new Project();
@@ -10,5 +13,6 @@ export const ProfileFactory = setSeederFactory(Project, (faker) => {
   p.endDate = faker.date.soon();
   p.url = faker.internet.url();
   p.imagen = faker.image.imageUrl();
+  p.types = faker.helpers.arrayElements(Object.values(ProjectType));
   return p;
 });

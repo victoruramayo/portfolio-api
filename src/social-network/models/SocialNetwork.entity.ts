@@ -31,7 +31,7 @@ export class SocialNetwork {
   @Column({ type: 'varchar', length: 255, nullable: false })
   name: string;
 
-  @ApiResponseProperty()
+  @ApiResponseProperty({ enum: SocialType })
   @Column({ type: 'enum', enum: SocialType, nullable: false })
   type: SocialType;
 

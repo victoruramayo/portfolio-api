@@ -8,6 +8,17 @@ import {
 import { Profile } from '../../../auth/models/entities/profile.entity';
 import { Portfolio } from './portfolio.entity';
 import { ApiHideProperty, ApiResponseProperty } from '@nestjs/swagger';
+import { SocialType } from '../../../social-network/models/SocialNetwork.entity';
+
+export enum ProjectType {
+  WEB = 'Web',
+  ANDROID = 'Android',
+  IOS = 'iOS',
+  MOBILE = 'Mobile',
+  MULTI_PLATFORM = 'Multi Platform',
+  FRONT_END = 'Front End',
+  BACK_END = 'Back End',
+}
 
 @Entity('proyects')
 export class Project {
@@ -52,4 +63,8 @@ export class Project {
   @ApiResponseProperty()
   @Column({ nullable: false })
   portfolioId: number;
+
+  @ApiResponseProperty({ enum: [SocialType] })
+  @Column({ type: 'enum', enum: ProjectType, array: true, nullable: false })
+  types: ProjectType[];
 }
