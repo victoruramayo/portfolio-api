@@ -8,7 +8,7 @@ export class AddTypeProject1683935136672 implements MigrationInterface {
       `CREATE TYPE "public"."proyects_types_enum" AS ENUM('Web', 'Android', 'iOS', 'Mobile', 'Multi Platform', 'Front End', 'Back End')`,
     );
     await queryRunner.query(
-      `ALTER TABLE "proyects" ADD "types" "public"."proyects_types_enum" array NOT NULL`,
+      `ALTER TABLE "proyects" ADD "types" "public"."proyects_types_enum" array NOT NULL DEFAULT '{}' `,
     );
   }
 
