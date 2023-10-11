@@ -11,6 +11,9 @@ export class ProjectService {
   ) {}
 
   getProjectsByPortfolioId(portfolioId: number) {
-    return this.projectRepo.findBy({ portfolioId });
+    return this.projectRepo.find({
+      where: { portfolioId },
+      order: { startDate: { direction: 'desc' } },
+    });
   }
 }

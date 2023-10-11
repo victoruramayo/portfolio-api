@@ -8,6 +8,7 @@ import { EnviromentsConfig } from './commons/enviroments.config';
 import { envConfig } from './commons/env.config';
 import { AuthModule } from './auth/auth.module';
 import { SocialNetworkModule } from './social-network/social-network.module';
+import { IqjModule } from './iqj/iqj.module';
 import Joi from 'joi';
 
 @Module({
@@ -34,6 +35,7 @@ import Joi from 'joi';
     }),
     AuthModule,
     SocialNetworkModule,
+    IqjModule,
   ],
   controllers: [AppController],
   providers: [AppService],
