@@ -1,185 +1,10 @@
 [
   {
-    "nid": [
-      {
-        "value": "175904"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "27d2159e-0003-4fae-ac64-eef42f215825"
-      }
-    ],
-    "vid": [
-      {
-        "value": "176288"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "La salud, tarea fundamental para el desarrollo de nuestros jóvenes quintanarroenses: Fernando Méndez Santiago"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1628542655"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1628542816"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1628542655"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "La salud, tarea fundamental para el desarrollo de nuestros jóvenes quintanarroenses: Fernando Méndez Santiago | qroo.gob.mx",
-        "description": " \n\n• Se inauguran las Jornadas de Juventud Saludable en los Centro Territorio Joven. \n\n• Se realizarán pruebas gratuitas de VIH, Sífilis y Hepatitis C para detectar de manera oportuna estas enfermedades y salvar vidas. "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• Se inauguran las Jornadas de Juventud Saludable en los Centro Territorio Joven.&nbsp;</strong></em></p>\r\n\r\n<p><em><strong>• Se realizarán pruebas gratuitas de VIH, Sífilis y Hepatitis C para detectar de manera oportuna estas enfermedades y salvar vidas.&nbsp;</strong></em></p>\r\n\r\n<hr />\r\n<p class=\"text-align-justify\">Cancún, Quintana Roo, 09 de agosto. - En el marco del inicio de las actividades del Mes de las Juventudes, el director general del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago abanderó el comienzo de las Jornadas de Juventud Saludable que contarán con pruebas de VIH, sífilis, hepatitis C y métodos de prevención sexual.</p>\r\n\r\n<p class=\"text-align-justify\">Dichas jornadas se efectuarán los días 17, 19, 24 y 26 de agosto (martes y jueves) en los municipios de Othón P. Blanco, Felipe Carrillo Puerto y Benito Juárez de 10:00 a 5:00 pm en los Centros Territorio Joven de manera simultánea.&nbsp;</p>\r\n\r\n<p class=\"text-align-justify\">\"Estas acciones son para poder conmemorar de la mejor manera el mes de las Juventudes con estrategias de la agenda 2030, culturales y sobre todo en temas de salud, por eso hoy nos encontramos inaugurando las pruebas gratuitas de VIH, sífilis y hepatitis C, para que los jóvenes puedan encontrar un lugar seguro y confiable para hacerse la prueba y así detectar de manera oportuna y salvar su vida.\" Destacó el director general el IQJ.</p>\r\n\r\n<p class=\"text-align-justify\">Cabe destacar que en estas Jornadas participan instituciones educativas, colectivos y asociaciones juveniles como la Universidad de Quintana Roo Campus Chetumal; el Instituto Educativo de Felipe Carrillo Puerto; el Instituto Universitario Metropolitano, así como las agrupaciones Queertana Roo; Resilientxs; Foro Cuir; MEXFAM QROO; SEEDSA A.C; REDefine; Colectivo U mootsel Kuxtal; UNAYAC; Colectivo LAMBDA; Red Nacional de Juventudes Diversas; Conversatorio Feminista, entre otros.</p>\r\n\r\n<p class=\"text-align-justify\">Además, en materia de salud también se llevarán a cabo 2 conversatorios para reforzar la promoción de la salud sexual: el 18 de agosto a las 12 del día “Apps de Citas: Sexting + Ciberseguridad + salud sexual” y el 28 de agosto a la misma hora se realizará el conversatorio “Prevenir y Decidir: Métodos anticonceptivos”.</p>\r\n\r\n<p class=\"text-align-justify\">Por su parte, en Benito Juárez, el Instituto Municipal de la Juventud lleva a cabo la Semana de las Juventudes, durante la cual se realizará la Jornada “JuventudEs Cuidarse” en la cual se instalarán 3 módulos para la aplicación gratuita de la prueba de VIH y asesoría psicológica de contención en los casos que sean necesarios.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
         "format": "html_completo",
         "summary": ""
-      }
-    ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "24",
-        "target_type": "taxonomy_term",
-        "target_uuid": "8e1e65db-eb75-41f5-bbee-77ba2464440f",
-        "url": "/categoria/programa-social"
-      },
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-08-09"
       }
     ],
     "field_gen_gmap_address": [
@@ -196,7 +21,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "9e01c403-4246-416c-b0c5-c3608091bc3b",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/1_0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image29.jpg"
       },
       {
         "target_id": "315154",
@@ -206,7 +31,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "2f6257e9-9f42-4054-a9a2-e95d0eef9283",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/2_1.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image30.jpg"
       },
       {
         "target_id": "315155",
@@ -216,7 +41,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "ce732e8c-7953-43bd-990d-011fb0751b46",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/3_1.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image31.jpg"
       },
       {
         "target_id": "315156",
@@ -226,22 +51,8 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "8839bc0b-4a79-485d-9347-25b468e67314",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/4_2.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image32.jpg"
       }
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
     ],
     "field_mt_slideshow_image": [
       {
@@ -252,205 +63,16 @@
         "height": "1000",
         "target_type": "file",
         "target_uuid": "845ca7cf-81ad-4331-aba3-694b15b257f0",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/4_1.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image33.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "175762"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "57efbafb-35ca-44f2-b582-e08fcb4d1a97"
-      }
-    ],
-    "vid": [
-      {
-        "value": "176146"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Inician formalmente las más de 30 actividades del Mes de las Juventudes"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1628298846"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1628299369"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1628298846"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Inician formalmente las más de 30 actividades del Mes de las Juventudes | qroo.gob.mx",
-        "description": " \n\n•    Fernando Méndez Santiago, director general del Instituto Quintanarroense de la Juventud inaugura oficialmente el Mes de las Juventudes.\n\n •    IQJ cuenta con actividades durante agosto para conmemorar el Día Internacional de la Juventud junto a grupos de la sociedad civil y de gobierno."
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><strong><em>•&nbsp;&nbsp; &nbsp;Fernando Méndez Santiago, director general del Instituto Quintanarroense de la Juventud inaugura oficialmente el Mes de las Juventudes.</em></strong></p>\r\n\r\n<p><strong><em>&nbsp;•&nbsp;&nbsp; &nbsp;IQJ cuenta con actividades durante agosto para conmemorar el Día Internacional de la Juventud junto a grupos de la sociedad civil y de gobierno.</em></strong></p>\r\n\r\n<hr />\r\n<p class=\"text-align-justify\">Cancún, Quintana Roo, 06 de agosto. – El director del Instituto Quintanarroense de la Juventud (IQJ) Fernando Méndez Santiago acompañado del titular de la Secretaría de Seguridad Pública (SSP), Lucio Hernández Gutiérrez, inauguró el Mes de las Juventudes en las instalaciones del Complejo de Seguridad C5 donde se presentaron más de 30 actividades que se realizarán en Othón P. Blanco. Felipe Carrillo Puerto y Benito Juárez.</p>\r\n\r\n<p class=\"text-align-justify\">Durante la inauguración, se presentó el &nbsp;programa de prevención del delito de la “Patrulla Juvenil”, misma que cubrirá las necesidades en seguridad entre las niñas, niños y adolescentes, alejándolos &nbsp;de cualquier conducta antisocial. Destacó que este programa tiene como objetivo motivar a los jóvenes a llevar una vida sana a través de actividades como defensa personal, campismo y primeros auxilios, donde se encuentran participando más de mil 130 jóvenes de todo el Estado.&nbsp;</p>\r\n\r\n<p class=\"text-align-justify\">“Es importante mencionar que &nbsp;las juventudes en la actualidad merecen con urgencia atender muchos de sus desafíos como lo es el acceso a la educación, el empleo, la igualdad de género y la salud, es por eso que los programas del mes de las juventudes les brindarán esas herramientas necesarias para lograrlo.” Destacó el titular.</p>\r\n\r\n<p class=\"text-align-justify\">Por otra parte, indicó que los retos principales a vencer fueron originados en la pandemia por lo que desde el Instituto Quintanarroense de la Juventud se ha trabajado de la mano con instancias como la Secretaría de Salud y gracias a ello, en este Mes de las Juventudes se llevarán a cabo Jornadas de Juventudes Saludables para la detección de VIH, sífilis y hepatitis C con pruebas totalmente gratuitas.</p>\r\n\r\n<p class=\"text-align-justify\">Además, afirmó que los jóvenes pueden ser una fuerza positiva para el desarrollo de una economía productiva; y necesitan acceso a un mercado laboral que pueda absorberlos en su tejido, para lo cual se trabajará de la mano con sectores estatales y nacionales, como lo es, las brigadas para la activación del tren maya y una feria del empleo, que les permitirá tener un ingreso para ellos y poder aportar en la economía de sus hogares.</p>\r\n\r\n<p class=\"text-align-justify\">En el evento inaugural se contó con la presencia del director del Instituto Municipal de Atención a la Juventud en Benito Juárez Eric Arcila Arjona; el Encargado de Despacho de la dirección de Bienestar y estímulos a la juventud del Instituto Mexicano de la Juventud, Fidel Kalax Ruíz Burguete; el Coordinador General del C5 Yei Bee Cerecer López así como jóvenes destacados entre ellos ganadores del premio Estatal de la Juventud de años pasados e influencers en temas de la agenda 2030.</p>\r\n\r\n<p class=\"text-align-justify\">&nbsp;Las actividades del Mes de la Juventud podrán ser consultadas en las redes oficiales de Juventud Quintana Roo.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
         "format": "html_completo",
         "summary": ""
-      }
-    ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-08-06"
       }
     ],
     "field_gen_gmap_address": [
@@ -467,7 +89,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "1cff9fde-bc30-410f-9a93-d9d2ad6334eb",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/4_0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image34.jpg"
       },
       {
         "target_id": "314966",
@@ -477,7 +99,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "76d6d1fb-38e7-43ce-ae53-c372c265082c",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/3_0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image35.jpg"
       },
       {
         "target_id": "314967",
@@ -487,7 +109,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "5fc7ce10-7268-4f8b-92ef-a18a377fd667",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/2_0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image36.jpg"
       },
       {
         "target_id": "314968",
@@ -497,7 +119,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "f93af0c5-e79a-4e88-83c1-40858f05c3f8",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/1.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image37.jpg"
       },
       {
         "target_id": "314969",
@@ -507,7 +129,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "43d5f575-99ad-4b8d-9b0a-c5fb2d207b22",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/c.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image38.jpg"
       },
       {
         "target_id": "314970",
@@ -517,7 +139,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "85d48eaf-f837-487e-a342-3817193eadfa",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/d.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image39.jpg"
       },
       {
         "target_id": "314971",
@@ -527,7 +149,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "66c45d99-2bd6-41d5-a11d-5ed22404f3e0",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/b.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image40.jpg"
       },
       {
         "target_id": "314972",
@@ -537,22 +159,8 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "81b41c69-86b4-42b8-aa43-882fe23bdedc",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/a.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image41.jpg"
       }
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
     ],
     "field_mt_slideshow_image": [
       {
@@ -563,140 +171,11 @@
         "height": "452",
         "target_type": "file",
         "target_uuid": "7fc85011-9748-4542-9fa5-8651df0c5d00",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/3.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image42.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "175601"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "c05f93f0-649f-4ec8-862c-17606c89d594"
-      }
-    ],
-    "vid": [
-      {
-        "value": "175984"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Promueve Fernando Méndez acciones para el mes de la juventud"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1628188061"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1628188187"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1628188061"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Promueve Fernando Méndez acciones para el mes de la juventud | qroo.gob.mx",
-        "description": " \n\n• Iniciará Mes de las Juventudes con diferentes actividades en todo el Estado\n\n• El director general del Instituto Quintanarroense de la Juventud promueve acciones y estrategias junto a otras dependencias de gobierno y asociaciones civiles para preservar la salud de los jovenes."
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• Iniciará Mes de las Juventudes con diferentes actividades en todo el Estado</strong></em></p>\r\n\r\n<p><em><strong>• El director general del Instituto Quintanarroense de la Juventud promueve acciones y estrategias junto a otras dependencias de gobierno y asociaciones civiles para preservar la salud de los jovenes.</strong></em></p>\r\n\r\n<hr />\r\n<p>Chetumal, Quintana Roo, 05 de agosto. - El director general del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago dio a conocer que, en coordinación con algunas instancias gubernamentales, organizaciones y asociaciones civiles, dará inicio con las actividades del “Mes de las Juventudes” en el marco del Día Internacional de la Juventud que se conmemora el 12 de agosto de cada año.</p>\r\n\r\n<p>Cabe señalar que una de las acciones y las estrategias que se implementarán junto a estos sectores será el de la prevención del VIH a través de estudios gratuitos en diferentes puntos del estado, donde destaca Othón P. Blanco, Felipe Carrillo Puerto y Benito Juárez; adicionalmente se llevarán a cabo conversatorios, actividades con el Voluntariado 2030 y ferias culturales.</p>\r\n\r\n<p>“La salud siempre será uno de los ejes más importantes de los trabajos del Instituto Quintanarroense de la Juventud, así como el de respaldar siempre a los grupos juveniles que trabajen con proyectos que promuevan el bienestar social, por eso, durante el mes de agosto se llevarán a cabo 5 Jornadas de Juventud Saludable en las que se beneficiará a más de 700 jóvenes con las pruebas gratuitas de VIH; varias de las actividades tendrán lugar en los Centros Territorio Joven ubicados en las cabeceras municipales.” Destacó Fernando Méndez.</p>\r\n\r\n<p>Dentro de los trabajos que se realizarán, es el de stands, propaganda y difusión para todos los sectores, entre ellos, las de las comunidades mayas. “Se están preparando estrategias de difusión para llegar a todos los rincones del estado, entre ellas, publicidad en lengua maya para los monolingües, y de esta manera puedan llegar a realizarse las pruebas gratuitas.” Aseveró.</p>\r\n\r\n<p>El VIH no debe ser un tema tabú en este siglo, debe ser un tema en el que todos podamos apoyar y de esta manera disminuir el índice de casos y generar una conciencia colectiva distinta sobre este tema.</p>\r\n",
@@ -704,88 +183,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-08-05"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "314807",
@@ -795,205 +198,16 @@
         "height": "729",
         "target_type": "file",
         "target_uuid": "bfdf8ca3-bcd9-4ac2-a6d5-0229121353a3",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/nota.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image43.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "175421"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "3d052f7d-d3e2-49ee-aa95-08485752d5ea"
-      }
-    ],
-    "vid": [
-      {
-        "value": "175804"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Debemos garantizar la salud y el desarrollo tecnológico en la enseñanza para este regreso a clases: Fernando Méndez"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1628100532"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1628174077"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1628100532"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Debemos garantizar la salud y el desarrollo tecnológico en la enseñanza para este regreso a clases: Fernando Méndez | qroo.gob.mx",
-        "description": " \n\n• El Director General del Instituto Quintanarroense de la Juventud respalda las acciones del gobierno estatal para un regreso a clases seguro.\n\n• Se debe garantizar un esquema educativo acorde a la nueva normalidad con infraestructura tecnológica para el aprendizaje de niñas, niños y adolescentes."
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• El Director General del Instituto Quintanarroense de la Juventud respalda las acciones del gobierno estatal para un regreso a clases seguro.</strong></em></p>\r\n\r\n<p><em><strong>• Se debe garantizar un esquema educativo acorde a la nueva normalidad con infraestructura tecnológica para el aprendizaje de niñas, niños y adolescentes.</strong></em></p>\r\n\r\n<hr />\r\n<p><br />\r\nChetumal, Quintana Roo, 04 de agosto. – A más de un año de haber sido suspendidas las clases presenciales en Quintana Roo, se prevé un nuevo inicio el próximo 30 de agosto, donde jóvenes, niñas y niños volverán de manera presencial a las aulas de clase, siempre y cuando el semáforo epidemiológico se mantenga en color amarillo y se garantice que los protocolos sanitarios se realizarán de manera correcta, además de que el regreso será voluntario, mientras los padres de familia estén de acuerdo.</p>\r\n\r\n<p>Al respecto, el Director General del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago, declaró que luego de un año y medio del establecimiento de las clases en línea, niñas, niños y jóvenes tendrán la oportunidad de volver a las aulas en un ambiente seguro y organizado.</p>\r\n\r\n<p>\"La tecnología ha avanzado a pasos agigantados durante esta pandemia, así que las escuelas deberán actualizar sus métodos de enseñanza para adaptarse a la nueva normalidad, considerando que una de las 5 estrategias se refiere a la infraestructura de los centros educativos.” Aseveró el joven chetumaleño.</p>\r\n\r\n<p>Mencionó que miles de estudiantes tuvieron que acostumbrarse a esta nueva modalidad de enseñanza la cual, les tomó tiempo tanto a ellos como a los padres de familia; sin embargo, aunque reconoció la efectividad de la enseñanza presencial, consideró necesario introducir ahora más que nunca las nuevas tecnologías en el proceso educativo.</p>\r\n\r\n<p>Es imprescindible mencionar que será un trabajo arduo, pero Fernando Méndez confía en que los jóvenes regresarán con más ganas a las escuelas, y ese sentido afirmó que la participación de los padres de familia será importante para garantizar que los protocolos de salud sean implementados correctamente por el bien de los estudiantes.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
         "format": "html_basico",
         "summary": ""
-      }
-    ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-08-04"
       }
     ],
     "field_gen_gmap_address": [
@@ -1010,7 +224,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "f1d35d58-e134-4c47-846e-fbdc6c706f56",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/677b6efd-db50-4f41-b180-46a93637189d.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image44.jpg"
       },
       {
         "target_id": "314590",
@@ -1020,22 +234,8 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "815eb060-b112-4e1d-9549-f3a6a495bcc5",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/8830ba08-1f1a-4d5f-99bd-812a268f654e_0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpg"
       }
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
     ],
     "field_mt_slideshow_image": [
       {
@@ -1046,140 +246,11 @@
         "height": "400",
         "target_type": "file",
         "target_uuid": "409b6079-704d-44c3-bbb5-a630a968a15b",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/08/baner%20para%20link%20800x400.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "171429"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "d7f8613d-2390-45be-bf9e-5b48a2c0728f"
-      }
-    ],
-    "vid": [
-      {
-        "value": "171814"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Resultados Emprende Yo te Apuesto 2021 *Fase Uno*"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1625096691"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1625096935"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1625096691"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Resultados Emprende Yo te Apuesto 2021 *Fase Uno* | qroo.gob.mx",
-        "description": " \n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/06/EYTA2021resultadosFaseUno.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>",
@@ -1187,113 +258,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "24",
-        "target_type": "taxonomy_term",
-        "target_uuid": "8e1e65db-eb75-41f5-bbee-77ba2464440f",
-        "url": "/categoria/programa-social"
-      },
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      },
-      {
-        "target_id": "18",
-        "target_type": "taxonomy_term",
-        "target_uuid": "fac6a243-29a9-4e57-a004-4042ff6dbec9",
-        "url": "/categoria/desarrollo-urbano"
-      },
-      {
-        "target_id": "17",
-        "target_type": "taxonomy_term",
-        "target_uuid": "0b12fbdb-f842-4053-bfad-4420c6d98ed0",
-        "url": "/categoria/desarrollo-social"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "307683",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "cad886f8-777c-4e52-aeb5-f62716c15b01",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/EYTA2021resultadosFaseUno.pdf"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-06-30"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "307682",
@@ -1303,140 +273,11 @@
         "height": "918",
         "target_type": "file",
         "target_uuid": "65139bdf-2149-4c4c-9188-5acd379ae0da",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/EmprendeYTA2021_Resultados.png"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image47.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "170902"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "643b6715-8f96-4e83-9042-2e13a8812b5d"
-      }
-    ],
-    "vid": [
-      {
-        "value": "171287"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Premio Estatal de la Juventud 2021"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1624899351"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1624978575"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1624899351"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Premio Estatal de la Juventud 2021 | qroo.gob.mx",
-        "description": " \n\n \n\n \n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n<hr>\r\n<p>&nbsp;</p>\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/06/ConvocatoriaPEJ2021_compressed.pdf\" width=\"100%\"></iframe></p>\r\n<p>&nbsp;</p>\r\n\r\n<p><br></p>\r\n<div style=\"text-align: center;\"><a href=\"https://forms.gle/BUVnqPDQZozjQkdd6\"><img alt=\"asd\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"4ef898d3-1dca-40f2-b21c-a3f5e0938ba2\" src=\"/sites/default/files/inline-images/Pre.png\"></a></div>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<p><br></p>",
@@ -1444,167 +285,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "307137",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "7248050c-c76f-4c45-adb5-390fa62835aa",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/ConvocatoriaPEJ2021_compressed.pdf"
-      },
-      {
-        "target_id": "307191",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "8aa01821-144c-47a8-9568-1ddb89a33af5",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/00%20PEJ2021%20C%C3%A9dula%20Registro.doc.docx"
-      },
-      {
-        "target_id": "307192",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "effdc0b4-a5f7-4097-91e6-15abbe770bf9",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/1%20PEJ2021%20Carta%20propuesta%20individual.docx"
-      },
-      {
-        "target_id": "307193",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "542f314d-9514-437f-8439-e974029b167d",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/2%20PEJ2021%20Carta%20autopropuesta%20individual.docx"
-      },
-      {
-        "target_id": "307194",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "60f72ba3-c329-4c2a-89a7-b01e52048a7c",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/3%20%20PEJ2021%20Carta%20aceptaci%C3%B3n%20individual.docx"
-      },
-      {
-        "target_id": "307195",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "dc151a6a-124f-4074-9cf2-8dda63858ee5",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/4%20PEJ2021%20Carta%20aceptaci%C3%B3n%20grupal.docx"
-      },
-      {
-        "target_id": "307196",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "b98fc160-b467-4dd8-a297-72ab4a971874",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/5%20PEJ2021%20Carta%20autopropuesta%20grupal.docx"
-      },
-      {
-        "target_id": "307197",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "5dc5e2db-9502-4202-b4bc-cfcbc9f9d2d0",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/6%20PEJ2021%20Carta%20propuesta%20grupal.docx"
-      },
-      {
-        "target_id": "307198",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "3755fefc-2db1-451f-813d-e15b4da1a75f",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/7%20PEJ2020%20Notas%20Ortogr%C3%A1ficas.docx"
-      },
-      {
-        "target_id": "307199",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "a62d0294-c838-4336-8f82-f5ec6e1ee987",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/8%20PEJ2021%20Gu%C3%ADa%20curriculum%20v%C3%ADtae.docx"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-06-28"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "306991",
@@ -1614,140 +300,11 @@
         "height": "1001",
         "target_type": "file",
         "target_uuid": "9b0c79c5-0051-4261-a221-7209b3ad96cf",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/06/PEJ2021%20redes-04.png"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image48.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "161133"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "08623994-dc90-41a5-9a68-ebd01f383f94"
-      }
-    ],
-    "vid": [
-      {
-        "value": "161518"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Consejo Estatal de la Juventud 2021"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1616630200"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1616794125"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1616630200"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Consejo Estatal de la Juventud 2021 | qroo.gob.mx",
-        "description": " \n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/03/ConvocaConsejoEstatal2021_compressed.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>",
@@ -1755,125 +312,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      },
-      {
-        "target_id": "17",
-        "target_type": "taxonomy_term",
-        "target_uuid": "0b12fbdb-f842-4053-bfad-4420c6d98ed0",
-        "url": "/categoria/desarrollo-social"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "292503",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "7e511b64-f627-4ad2-a4fe-1aed8436fb91",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/ConvocaConsejoEstatal2021_compressed.pdf"
-      },
-      {
-        "target_id": "292576",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "86842cc8-732c-425d-ad5f-951238faf699",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/ANEXO%201.%20EJEMPLO%20PARA%20CARTA%20DE%20POSTULACI%C3%93N.docx"
-      },
-      {
-        "target_id": "292577",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "e3655525-8c89-4744-9e8e-b12666634e9d",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/ANEXO%202.%20PROTESTA%20DE%20NO%20ANTECEDENTES%20PENALES.docx"
-      },
-      {
-        "target_id": "292578",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "d752100c-263b-4bf3-af87-f01e007829a2",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/ANEXO%203.%20COMPROMISO%20DE%20ENTREGA%20DE%20DOCUMENTACI%C3%93N%20F%C3%8DSICA.docx"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-03-24"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "292502",
@@ -1883,140 +327,11 @@
         "height": "539",
         "target_type": "file",
         "target_uuid": "e8dbb702-fa74-4954-b816-2342970c0e77",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/WhatsApp%20Image%202021-03-24%20at%205.51.39%20PM.jpeg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image49.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "159287"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "ac8f15ff-99b4-461e-9fbf-0fbaaa6c5eb0"
-      }
-    ],
-    "vid": [
-      {
-        "value": "159673"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Becas Misión Resistencia 2021"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1614980808"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1615569681"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1614980808"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Becas Misión Resistencia 2021 | qroo.gob.mx",
-        "description": " \n\n\n\n \n\n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/03/MisionResistenciaConvocatoria_compressed.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>\r\n<div style=\"text-align: center;\">\r\n<a href=\"https://forms.gle/rXQdo92ePUoCXa5z6\"><img alt=\"iqj\" data-entity-type=\"file\" data-entity-uuid=\"a71efb45-5088-4bd7-8c3a-e133231826f0\" src=\"/sites/default/files/inline-images/registrate_0_0.png\" /></a>\r\n</div>\r\n\r\n<p>&nbsp;</p>",
@@ -2024,101 +339,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "24",
-        "target_type": "taxonomy_term",
-        "target_uuid": "8e1e65db-eb75-41f5-bbee-77ba2464440f",
-        "url": "/categoria/programa-social"
-      },
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "289539",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "c57f3830-83d9-4712-ad0f-ef9df3d7225f",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/MisionResistenciaConvocatoria_compressed.pdf"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2021-03-05"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "289540",
@@ -2128,140 +354,11 @@
         "height": "539",
         "target_type": "file",
         "target_uuid": "c939c303-eb3d-457d-85a0-ef6efc8d64aa",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2021/03/3e655eb0-bc27-47c1-bee8-70e66cf8f0d0.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image50.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "140954"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "e833aad1-638f-4c59-98b4-a876c9f61598"
-      }
-    ],
-    "vid": [
-      {
-        "value": "141333"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Resultados Emprende Yo te Apuesto 2020"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1599053701"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1599054008"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1599053701"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Resultados Emprende Yo te Apuesto 2020 | qroo.gob.mx",
-        "description": " \n\n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2020/09/Resultados%20Emprende%202020.pdf\" width=\"100%\"></iframe></p>\r\n\r\n\r\n<p>&nbsp;</p>",
@@ -2269,107 +366,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "24",
-        "target_type": "taxonomy_term",
-        "target_uuid": "8e1e65db-eb75-41f5-bbee-77ba2464440f",
-        "url": "/categoria/programa-social"
-      },
-      {
-        "target_id": "391",
-        "target_type": "taxonomy_term",
-        "target_uuid": "19a4ac78-3ea3-426e-8789-16a8dea717f1",
-        "url": "/categoria/trabajo"
-      },
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "260436",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "71d5d4f4-863c-4d75-a70a-1432eadbced7",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/09/Resultados%20Emprende%202020.pdf"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2020-09-02"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "260435",
@@ -2379,140 +381,11 @@
         "height": "538",
         "target_type": "file",
         "target_uuid": "7597fff2-f39c-434d-ac07-31ee13604e06",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/09/emprende2020.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image51.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   },
   {
-    "nid": [
-      {
-        "value": "123800"
-      }
-    ],
-    "uuid": [
-      {
-        "value": "590b7715-a33a-47da-9f05-a46f47cce19d"
-      }
-    ],
-    "vid": [
-      {
-        "value": "124165"
-      }
-    ],
-    "langcode": [
-      {
-        "value": "es"
-      }
-    ],
-    "type": [
-      {
-        "target_id": "tc_comunicado",
-        "target_type": "node_type",
-        "target_uuid": "c4b60a4d-4df3-47fe-bdc2-f8a61efc9e06"
-      }
-    ],
-    "title": [
-      {
-        "value": "Convocatoria Consejo Estatal de la Juventud 2020"
-      }
-    ],
-    "uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "status": [
-      {
-        "value": "1"
-      }
-    ],
-    "created": [
-      {
-        "value": "1581975959"
-      }
-    ],
-    "changed": [
-      {
-        "value": "1583530927"
-      }
-    ],
-    "promote": [
-      {
-        "value": "0"
-      }
-    ],
-    "sticky": [
-      {
-        "value": "0"
-      }
-    ],
-    "revision_timestamp": [
-      {
-        "value": "1581975959"
-      }
-    ],
-    "revision_uid": [
-      {
-        "target_id": "1616",
-        "target_type": "user",
-        "target_uuid": "080a9278-3875-4489-a8ac-82761abedc14",
-        "url": "/iqj-iqj-tic"
-      }
-    ],
-    "revision_log": [
-
-    ],
-    "revision_translation_affected": [
-      {
-        "value": "1"
-      }
-    ],
-    "default_langcode": [
-      {
-        "value": "1"
-      }
-    ],
-    "metatag": {
-      "value": {
-        "title": "Convocatoria Consejo Estatal de la Juventud 2020 | qroo.gob.mx",
-        "description": " \n\n\n\n\n "
-      }
-    },
-    "path": [
-
-    ],
-    "publish_on": [
-
-    ],
-    "unpublish_on": [
-
-    ],
-    "menu_link": [
-
-    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2020/02/ConvocaConsejoEstatal2020_0.pdf\" width=\"100%\"></iframe></p>\r\n\r\n\r\n<p>&nbsp;</p>\r\n",
@@ -2520,119 +393,12 @@
         "summary": ""
       }
     ],
-    "field_audio": [
-
-    ],
-    "field_cla_eje_gobierno": [
-      {
-        "target_id": "7",
-        "target_type": "taxonomy_term",
-        "target_uuid": "d821a58a-3562-43a4-9b95-7a821e880ab9",
-        "url": "/categoria/eje-4-desarrollo-social-y-combate-la-desigualdad"
-      }
-    ],
-    "field_cla_especial": [
-
-    ],
-    "field_cla_estruc_jerarquica": [
-
-    ],
-    "field_cla_fracc_transparencia": [
-
-    ],
-    "field_cla_pob_objetivo": [
-      {
-        "target_id": "12",
-        "target_type": "taxonomy_term",
-        "target_uuid": "66b9273b-3416-499f-b9ac-31b06d4a86a5",
-        "url": "/categoria/jovenes"
-      }
-    ],
-    "field_cla_tematica": [
-      {
-        "target_id": "20",
-        "target_type": "taxonomy_term",
-        "target_uuid": "e2bad2b5-bfff-4706-81f4-88c76595fd46",
-        "url": "/categoria/gobierno"
-      }
-    ],
-    "field_field_mt_slideshow": [
-      {
-        "value": "1"
-      }
-    ],
-    "field_gen_adjuntos": [
-      {
-        "target_id": "236112",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "001bd26f-0b94-4ed8-bc11-f3ea3749807b",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/02/ConvocaConsejoEstatal2020_0.pdf"
-      },
-      {
-        "target_id": "240645",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "5279429a-4c88-4f07-a1a7-ce6b2f656b50",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/03/ANEXO%201%20CARTA%20COMPROMISO%20DE%20ENTREGA%20DE%20NO%20ANTECEDENTES%20PENALES.docx"
-      },
-      {
-        "target_id": "240646",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "952537a6-2b5f-4fbf-a47a-f1792ce8c3af",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/03/ANEXO%202%20EJEMPLO%20PARA%20CARTA%20DE%20POSTULACI%C3%93N.docx"
-      },
-      {
-        "target_id": "240647",
-        "display": "1",
-        "description": "",
-        "target_type": "file",
-        "target_uuid": "133f87c2-f610-407b-970e-02c736861a2a",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/03/ANEXO%203%20CARTA%20COMPROMISO%20DE%20ENTREGA%20DE%20DOCUMENTACI%C3%93N%20F%C3%8DSICA.docx"
-      }
-    ],
-    "field_gen_entidad_padre": [
-      {
-        "target_id": "3563",
-        "target_type": "node",
-        "target_uuid": "f74159b2-2840-47da-9554-e203b3a22821",
-        "url": "/juventud"
-      }
-    ],
-    "field_gen_fecha": [
-
-    ],
-    "field_gen_fecha_no_hr": [
-      {
-        "value": "2020-02-17"
-      }
-    ],
     "field_gen_gmap_address": [
       {
         "value": "Chetumal, Quintana Roo"
       }
     ],
-    "field_images": [
-
-    ],
-    "field_meta_tag": [
-      "Metatags are normalized in the metatag field."
-    ],
-    "field_mt_bg_video_vimeo": [
-
-    ],
-    "field_mt_bg_video_volume": [
-      {
-        "value": "0"
-      }
-    ],
-    "field_mt_bg_video_youtube": [
-
-    ],
+    "field_images": [],
     "field_mt_slideshow_image": [
       {
         "target_id": "236083",
@@ -2642,28 +408,8 @@
         "height": "1000",
         "target_type": "file",
         "target_uuid": "bf191b0d-4674-46d5-acba-8bd2a8d7fc2a",
-        "url": "https://qroo.gob.mx/sites/default/files/unisitio2020/02/redes-01.png"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image52.jpg"
       }
-    ],
-    "field_mt_slideshow_path": [
-
-    ],
-    "field_mt_slideshow_text": [
-
-    ],
-    "field_tc_video": [
-
-    ],
-    "field_tipo_de_contenido": [
-      {
-        "target_id": "9",
-        "target_type": "taxonomy_term",
-        "target_uuid": "cbbbe96d-5d1d-4ac7-b80a-07f8d00fd7ad",
-        "url": "/cat/noticiaboletin"
-      }
-    ],
-    "simplenews_issue": [
-
     ]
   }
 ]
