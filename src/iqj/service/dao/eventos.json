@@ -1,5 +1,11 @@
+
 [
   {
+    "title": [
+      {
+        "value": "La salud, tarea fundamental para el desarrollo de nuestros jóvenes quintanarroenses: Fernando Méndez Santiago"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• Se inauguran las Jornadas de Juventud Saludable en los Centro Territorio Joven.&nbsp;</strong></em></p>\r\n\r\n<p><em><strong>• Se realizarán pruebas gratuitas de VIH, Sífilis y Hepatitis C para detectar de manera oportuna estas enfermedades y salvar vidas.&nbsp;</strong></em></p>\r\n\r\n<hr />\r\n<p class=\"text-align-justify\">Cancún, Quintana Roo, 09 de agosto. - En el marco del inicio de las actividades del Mes de las Juventudes, el director general del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago abanderó el comienzo de las Jornadas de Juventud Saludable que contarán con pruebas de VIH, sífilis, hepatitis C y métodos de prevención sexual.</p>\r\n\r\n<p class=\"text-align-justify\">Dichas jornadas se efectuarán los días 17, 19, 24 y 26 de agosto (martes y jueves) en los municipios de Othón P. Blanco, Felipe Carrillo Puerto y Benito Juárez de 10:00 a 5:00 pm en los Centros Territorio Joven de manera simultánea.&nbsp;</p>\r\n\r\n<p class=\"text-align-justify\">\"Estas acciones son para poder conmemorar de la mejor manera el mes de las Juventudes con estrategias de la agenda 2030, culturales y sobre todo en temas de salud, por eso hoy nos encontramos inaugurando las pruebas gratuitas de VIH, sífilis y hepatitis C, para que los jóvenes puedan encontrar un lugar seguro y confiable para hacerse la prueba y así detectar de manera oportuna y salvar su vida.\" Destacó el director general el IQJ.</p>\r\n\r\n<p class=\"text-align-justify\">Cabe destacar que en estas Jornadas participan instituciones educativas, colectivos y asociaciones juveniles como la Universidad de Quintana Roo Campus Chetumal; el Instituto Educativo de Felipe Carrillo Puerto; el Instituto Universitario Metropolitano, así como las agrupaciones Queertana Roo; Resilientxs; Foro Cuir; MEXFAM QROO; SEEDSA A.C; REDefine; Colectivo U mootsel Kuxtal; UNAYAC; Colectivo LAMBDA; Red Nacional de Juventudes Diversas; Conversatorio Feminista, entre otros.</p>\r\n\r\n<p class=\"text-align-justify\">Además, en materia de salud también se llevarán a cabo 2 conversatorios para reforzar la promoción de la salud sexual: el 18 de agosto a las 12 del día “Apps de Citas: Sexting + Ciberseguridad + salud sexual” y el 28 de agosto a la misma hora se realizará el conversatorio “Prevenir y Decidir: Métodos anticonceptivos”.</p>\r\n\r\n<p class=\"text-align-justify\">Por su parte, en Benito Juárez, el Instituto Municipal de la Juventud lleva a cabo la Semana de las Juventudes, durante la cual se realizará la Jornada “JuventudEs Cuidarse” en la cual se instalarán 3 módulos para la aplicación gratuita de la prueba de VIH y asesoría psicológica de contención en los casos que sean necesarios.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
@@ -21,7 +27,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "9e01c403-4246-416c-b0c5-c3608091bc3b",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image29.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image29.jpeg"
       },
       {
         "target_id": "315154",
@@ -31,7 +37,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "2f6257e9-9f42-4054-a9a2-e95d0eef9283",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image30.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image30.jpeg"
       },
       {
         "target_id": "315155",
@@ -41,7 +47,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "ce732e8c-7953-43bd-990d-011fb0751b46",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image31.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image31.jpeg"
       },
       {
         "target_id": "315156",
@@ -51,7 +57,7 @@
         "height": "1500",
         "target_type": "file",
         "target_uuid": "8839bc0b-4a79-485d-9347-25b468e67314",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image32.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image32.jpeg"
       }
     ],
     "field_mt_slideshow_image": [
@@ -63,11 +69,16 @@
         "height": "1000",
         "target_type": "file",
         "target_uuid": "845ca7cf-81ad-4331-aba3-694b15b257f0",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image33.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image33.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Inician formalmente las más de 30 actividades del Mes de las Juventudes"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><strong><em>•&nbsp;&nbsp; &nbsp;Fernando Méndez Santiago, director general del Instituto Quintanarroense de la Juventud inaugura oficialmente el Mes de las Juventudes.</em></strong></p>\r\n\r\n<p><strong><em>&nbsp;•&nbsp;&nbsp; &nbsp;IQJ cuenta con actividades durante agosto para conmemorar el Día Internacional de la Juventud junto a grupos de la sociedad civil y de gobierno.</em></strong></p>\r\n\r\n<hr />\r\n<p class=\"text-align-justify\">Cancún, Quintana Roo, 06 de agosto. – El director del Instituto Quintanarroense de la Juventud (IQJ) Fernando Méndez Santiago acompañado del titular de la Secretaría de Seguridad Pública (SSP), Lucio Hernández Gutiérrez, inauguró el Mes de las Juventudes en las instalaciones del Complejo de Seguridad C5 donde se presentaron más de 30 actividades que se realizarán en Othón P. Blanco. Felipe Carrillo Puerto y Benito Juárez.</p>\r\n\r\n<p class=\"text-align-justify\">Durante la inauguración, se presentó el &nbsp;programa de prevención del delito de la “Patrulla Juvenil”, misma que cubrirá las necesidades en seguridad entre las niñas, niños y adolescentes, alejándolos &nbsp;de cualquier conducta antisocial. Destacó que este programa tiene como objetivo motivar a los jóvenes a llevar una vida sana a través de actividades como defensa personal, campismo y primeros auxilios, donde se encuentran participando más de mil 130 jóvenes de todo el Estado.&nbsp;</p>\r\n\r\n<p class=\"text-align-justify\">“Es importante mencionar que &nbsp;las juventudes en la actualidad merecen con urgencia atender muchos de sus desafíos como lo es el acceso a la educación, el empleo, la igualdad de género y la salud, es por eso que los programas del mes de las juventudes les brindarán esas herramientas necesarias para lograrlo.” Destacó el titular.</p>\r\n\r\n<p class=\"text-align-justify\">Por otra parte, indicó que los retos principales a vencer fueron originados en la pandemia por lo que desde el Instituto Quintanarroense de la Juventud se ha trabajado de la mano con instancias como la Secretaría de Salud y gracias a ello, en este Mes de las Juventudes se llevarán a cabo Jornadas de Juventudes Saludables para la detección de VIH, sífilis y hepatitis C con pruebas totalmente gratuitas.</p>\r\n\r\n<p class=\"text-align-justify\">Además, afirmó que los jóvenes pueden ser una fuerza positiva para el desarrollo de una economía productiva; y necesitan acceso a un mercado laboral que pueda absorberlos en su tejido, para lo cual se trabajará de la mano con sectores estatales y nacionales, como lo es, las brigadas para la activación del tren maya y una feria del empleo, que les permitirá tener un ingreso para ellos y poder aportar en la economía de sus hogares.</p>\r\n\r\n<p class=\"text-align-justify\">En el evento inaugural se contó con la presencia del director del Instituto Municipal de Atención a la Juventud en Benito Juárez Eric Arcila Arjona; el Encargado de Despacho de la dirección de Bienestar y estímulos a la juventud del Instituto Mexicano de la Juventud, Fidel Kalax Ruíz Burguete; el Coordinador General del C5 Yei Bee Cerecer López así como jóvenes destacados entre ellos ganadores del premio Estatal de la Juventud de años pasados e influencers en temas de la agenda 2030.</p>\r\n\r\n<p class=\"text-align-justify\">&nbsp;Las actividades del Mes de la Juventud podrán ser consultadas en las redes oficiales de Juventud Quintana Roo.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
@@ -89,7 +100,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "1cff9fde-bc30-410f-9a93-d9d2ad6334eb",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image34.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image34.jpeg"
       },
       {
         "target_id": "314966",
@@ -99,7 +110,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "76d6d1fb-38e7-43ce-ae53-c372c265082c",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image35.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image35.jpeg"
       },
       {
         "target_id": "314967",
@@ -109,7 +120,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "5fc7ce10-7268-4f8b-92ef-a18a377fd667",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image36.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image36.jpeg"
       },
       {
         "target_id": "314968",
@@ -119,7 +130,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "f93af0c5-e79a-4e88-83c1-40858f05c3f8",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image37.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image37.jpeg"
       },
       {
         "target_id": "314969",
@@ -129,7 +140,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "43d5f575-99ad-4b8d-9b0a-c5fb2d207b22",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image38.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image38.jpeg"
       },
       {
         "target_id": "314970",
@@ -139,7 +150,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "85d48eaf-f837-487e-a342-3817193eadfa",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image39.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image39.jpeg"
       },
       {
         "target_id": "314971",
@@ -149,7 +160,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "66c45d99-2bd6-41d5-a11d-5ed22404f3e0",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image40.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image40.jpeg"
       },
       {
         "target_id": "314972",
@@ -159,7 +170,7 @@
         "height": "720",
         "target_type": "file",
         "target_uuid": "81b41c69-86b4-42b8-aa43-882fe23bdedc",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image41.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image41.jpeg"
       }
     ],
     "field_mt_slideshow_image": [
@@ -171,11 +182,16 @@
         "height": "452",
         "target_type": "file",
         "target_uuid": "7fc85011-9748-4542-9fa5-8651df0c5d00",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image42.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image42.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Promueve Fernando Méndez acciones para el mes de la juventud"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• Iniciará Mes de las Juventudes con diferentes actividades en todo el Estado</strong></em></p>\r\n\r\n<p><em><strong>• El director general del Instituto Quintanarroense de la Juventud promueve acciones y estrategias junto a otras dependencias de gobierno y asociaciones civiles para preservar la salud de los jovenes.</strong></em></p>\r\n\r\n<hr />\r\n<p>Chetumal, Quintana Roo, 05 de agosto. - El director general del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago dio a conocer que, en coordinación con algunas instancias gubernamentales, organizaciones y asociaciones civiles, dará inicio con las actividades del “Mes de las Juventudes” en el marco del Día Internacional de la Juventud que se conmemora el 12 de agosto de cada año.</p>\r\n\r\n<p>Cabe señalar que una de las acciones y las estrategias que se implementarán junto a estos sectores será el de la prevención del VIH a través de estudios gratuitos en diferentes puntos del estado, donde destaca Othón P. Blanco, Felipe Carrillo Puerto y Benito Juárez; adicionalmente se llevarán a cabo conversatorios, actividades con el Voluntariado 2030 y ferias culturales.</p>\r\n\r\n<p>“La salud siempre será uno de los ejes más importantes de los trabajos del Instituto Quintanarroense de la Juventud, así como el de respaldar siempre a los grupos juveniles que trabajen con proyectos que promuevan el bienestar social, por eso, durante el mes de agosto se llevarán a cabo 5 Jornadas de Juventud Saludable en las que se beneficiará a más de 700 jóvenes con las pruebas gratuitas de VIH; varias de las actividades tendrán lugar en los Centros Territorio Joven ubicados en las cabeceras municipales.” Destacó Fernando Méndez.</p>\r\n\r\n<p>Dentro de los trabajos que se realizarán, es el de stands, propaganda y difusión para todos los sectores, entre ellos, las de las comunidades mayas. “Se están preparando estrategias de difusión para llegar a todos los rincones del estado, entre ellas, publicidad en lengua maya para los monolingües, y de esta manera puedan llegar a realizarse las pruebas gratuitas.” Aseveró.</p>\r\n\r\n<p>El VIH no debe ser un tema tabú en este siglo, debe ser un tema en el que todos podamos apoyar y de esta manera disminuir el índice de casos y generar una conciencia colectiva distinta sobre este tema.</p>\r\n",
@@ -198,11 +214,16 @@
         "height": "729",
         "target_type": "file",
         "target_uuid": "bfdf8ca3-bcd9-4ac2-a6d5-0229121353a3",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image43.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image43.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Debemos garantizar la salud y el desarrollo tecnológico en la enseñanza para este regreso a clases: Fernando Méndez"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><em><strong>• El Director General del Instituto Quintanarroense de la Juventud respalda las acciones del gobierno estatal para un regreso a clases seguro.</strong></em></p>\r\n\r\n<p><em><strong>• Se debe garantizar un esquema educativo acorde a la nueva normalidad con infraestructura tecnológica para el aprendizaje de niñas, niños y adolescentes.</strong></em></p>\r\n\r\n<hr />\r\n<p><br />\r\nChetumal, Quintana Roo, 04 de agosto. – A más de un año de haber sido suspendidas las clases presenciales en Quintana Roo, se prevé un nuevo inicio el próximo 30 de agosto, donde jóvenes, niñas y niños volverán de manera presencial a las aulas de clase, siempre y cuando el semáforo epidemiológico se mantenga en color amarillo y se garantice que los protocolos sanitarios se realizarán de manera correcta, además de que el regreso será voluntario, mientras los padres de familia estén de acuerdo.</p>\r\n\r\n<p>Al respecto, el Director General del Instituto Quintanarroense de la Juventud (IQJ), Fernando Méndez Santiago, declaró que luego de un año y medio del establecimiento de las clases en línea, niñas, niños y jóvenes tendrán la oportunidad de volver a las aulas en un ambiente seguro y organizado.</p>\r\n\r\n<p>\"La tecnología ha avanzado a pasos agigantados durante esta pandemia, así que las escuelas deberán actualizar sus métodos de enseñanza para adaptarse a la nueva normalidad, considerando que una de las 5 estrategias se refiere a la infraestructura de los centros educativos.” Aseveró el joven chetumaleño.</p>\r\n\r\n<p>Mencionó que miles de estudiantes tuvieron que acostumbrarse a esta nueva modalidad de enseñanza la cual, les tomó tiempo tanto a ellos como a los padres de familia; sin embargo, aunque reconoció la efectividad de la enseñanza presencial, consideró necesario introducir ahora más que nunca las nuevas tecnologías en el proceso educativo.</p>\r\n\r\n<p>Es imprescindible mencionar que será un trabajo arduo, pero Fernando Méndez confía en que los jóvenes regresarán con más ganas a las escuelas, y ese sentido afirmó que la participación de los padres de familia será importante para garantizar que los protocolos de salud sean implementados correctamente por el bien de los estudiantes.</p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n",
@@ -224,7 +245,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "f1d35d58-e134-4c47-846e-fbdc6c706f56",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image44.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image44.jpeg"
       },
       {
         "target_id": "314590",
@@ -234,7 +255,7 @@
         "height": "853",
         "target_type": "file",
         "target_uuid": "815eb060-b112-4e1d-9549-f3a6a495bcc5",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpeg"
       }
     ],
     "field_mt_slideshow_image": [
@@ -246,11 +267,16 @@
         "height": "400",
         "target_type": "file",
         "target_uuid": "409b6079-704d-44c3-bbb5-a630a968a15b",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image45.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Resultados Emprende Yo te Apuesto 2021 *Fase Uno*"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/06/EYTA2021resultadosFaseUno.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>",
@@ -273,11 +299,16 @@
         "height": "918",
         "target_type": "file",
         "target_uuid": "65139bdf-2149-4c4c-9188-5acd379ae0da",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image47.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image47.png"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Premio Estatal de la Juventud 2021"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n<hr>\r\n<p>&nbsp;</p>\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/06/ConvocatoriaPEJ2021_compressed.pdf\" width=\"100%\"></iframe></p>\r\n<p>&nbsp;</p>\r\n\r\n<p><br></p>\r\n<div style=\"text-align: center;\"><a href=\"https://forms.gle/BUVnqPDQZozjQkdd6\"><img alt=\"asd\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"4ef898d3-1dca-40f2-b21c-a3f5e0938ba2\" src=\"/sites/default/files/inline-images/Pre.png\"></a></div>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<p><br></p>",
@@ -300,11 +331,16 @@
         "height": "1001",
         "target_type": "file",
         "target_uuid": "9b0c79c5-0051-4261-a221-7209b3ad96cf",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image48.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image48.png"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Consejo Estatal de la Juventud 2021"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/03/ConvocaConsejoEstatal2021_compressed.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>",
@@ -327,11 +363,16 @@
         "height": "539",
         "target_type": "file",
         "target_uuid": "e8dbb702-fa74-4954-b816-2342970c0e77",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image49.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image49.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Becas Misión Resistencia 2021"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2021/03/MisionResistenciaConvocatoria_compressed.pdf\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>\r\n<div style=\"text-align: center;\">\r\n<a href=\"https://forms.gle/rXQdo92ePUoCXa5z6\"><img alt=\"iqj\" data-entity-type=\"file\" data-entity-uuid=\"a71efb45-5088-4bd7-8c3a-e133231826f0\" src=\"/sites/default/files/inline-images/registrate_0_0.png\" /></a>\r\n</div>\r\n\r\n<p>&nbsp;</p>",
@@ -354,11 +395,16 @@
         "height": "539",
         "target_type": "file",
         "target_uuid": "c939c303-eb3d-457d-85a0-ef6efc8d64aa",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image50.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image50.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Resultados Emprende Yo te Apuesto 2020"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2020/09/Resultados%20Emprende%202020.pdf\" width=\"100%\"></iframe></p>\r\n\r\n\r\n<p>&nbsp;</p>",
@@ -381,11 +427,16 @@
         "height": "538",
         "target_type": "file",
         "target_uuid": "7597fff2-f39c-434d-ac07-31ee13604e06",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image51.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image51.jpeg"
       }
     ]
   },
   {
+    "title": [
+      {
+        "value": "Convocatoria Consejo Estatal de la Juventud 2020"
+      }
+    ],
     "body": [
       {
         "value": "<p>&nbsp;</p>\r\n\r\n<p><iframe data-1=\"today\" height=\"800px\" lang=\"en\" sport=\"football(soccer)\" src=\"https://qroo.gob.mx/sites/default/files/unisitio2020/02/ConvocaConsejoEstatal2020_0.pdf\" width=\"100%\"></iframe></p>\r\n\r\n\r\n<p>&nbsp;</p>\r\n",
@@ -408,7 +459,7 @@
         "height": "1000",
         "target_type": "file",
         "target_uuid": "bf191b0d-4674-46d5-acba-8bd2a8d7fc2a",
-        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image52.jpg"
+        "url": "https://atqvohiizznwgxzlljbk.supabase.co/storage/v1/object/public/images/iqj/image52.png"
       }
     ]
   }
