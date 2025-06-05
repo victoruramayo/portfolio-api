@@ -6,7 +6,6 @@ import {
   Request,
   UseGuards,
 } from '@nestjs/common';
-import { AuthGuard } from '@nestjs/passport';
 import { RequestApiKeyGuard } from '../../auth/strategies/apikey.strategy';
 import { SocialNetworkService } from '../service/social-network.service';
 import { CreateSocialNetworkDTO } from '../dtos/CreateSocialNetworkDTO';
@@ -19,6 +18,7 @@ import {
   ApiUnauthorizedResponse,
 } from '@nestjs/swagger';
 import { SocialNetwork } from '../models/SocialNetwork.entity';
+import { ApiKeyGuard } from '../../auth/guards/api-key.guard';
 
 @ApiSecurity('Api-Key')
 @ApiTags('Portfolio')
@@ -45,7 +45,7 @@ export class SocialNetworkController {
     },
   })
   @Get()
-  @UseGuards(AuthGuard('apikey'))
+  @UseGuards(ApiKeyGuard)
   getSocialNetworks(@Request() req: RequestApiKeyGuard) {
     const { id } = req.user;
     return this.socialService.getSocialNetwork(id);
@@ -85,7 +85,7 @@ export class SocialNetworkController {
   })
   @Post()
   // TODO Cambiar guard de api key a jwt para conectar con frontend
-  @UseGuards(AuthGuard('apikey'))
+  @UseGuards(ApiKeyGuard)
   create(
     @Body() payload: CreateSocialNetworkDTO,
     @Request() req: RequestApiKeyGuard,

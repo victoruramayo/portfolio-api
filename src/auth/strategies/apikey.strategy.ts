@@ -1,47 +1,42 @@
+// apikey.strategy.ts
 import { PassportStrategy } from '@nestjs/passport';
-import { HeaderAPIKeyStrategy } from 'passport-headerapikey';
+import { Strategy } from 'passport-custom';
 import { Injectable, UnauthorizedException } from '@nestjs/common';
-import {
-  checkAPIKey,
-  getTokenComponents,
-} from '../../commons/prefixed-api-key.utils';
+import { Request } from 'express';
 import { ApiKeyService } from '../service/api-key.service';
+import {
+  getTokenComponents,
+  checkAPIKey,
+} from '../../commons/prefixed-api-key.utils';
 import { Profile } from '../models/entities/profile.entity';
 import { Portfolio } from '../../portfolio/models/entities/portfolio.entity';
-import { Request } from 'express';
-import { Apikey } from '../models/entities/apikey.entity';
 
 export interface RequestApiKeyGuard extends Request {
-  user: Profile;
-  authInfo: { portfolio: Portfolio };
+  user: Profile & { portfolio: Portfolio };
 }
 
 @Injectable()
-export class ApikeyStrategy extends PassportStrategy(
-  HeaderAPIKeyStrategy,
-  'apikey',
-) {
-  constructor(private readonly apikeyService: ApiKeyService) {
-    super(
-      { header: 'Authorization' },
-      true,
-      async (
-        token,
-        done: (err: Error | null, user?: unknown, info?: unknown) => void,
-      ) => {
-        const { shortToken, longTokenHash } = await getTokenComponents(token);
-        const apikey: Apikey | null = await apikeyService.findApikeyAndProject(
-          shortToken,
-        );
-        const isValidToken = await checkAPIKey(token, longTokenHash);
-        if (!apikey || !isValidToken) {
-          return done(new UnauthorizedException("Sorry don't have permission"));
-        }
+export class ApikeyStrategy extends PassportStrategy(Strategy, 'apikey') {
+  constructor(private readonly apiKeyService: ApiKeyService) {
+    super();
+  }
 
-        return done(null, apikey.portfolio.profile, {
-          portfolio: apikey.portfolio,
-        });
-      },
-    );
+  async validate(req: Request): Promise<any> {
+    const authHeader = req.headers['authorization'];
+
+    if (!authHeader) {
+      throw new UnauthorizedException('Missing API Key');
+    }
+
+    const { shortToken, longTokenHash } = await getTokenComponents(authHeader);
+    const apikey = await this.apiKeyService.findApikeyAndProject(shortToken);
+    const isValid = await checkAPIKey(authHeader, longTokenHash);
+
+    if (!apikey || !isValid) {
+      throw new UnauthorizedException('Invalid API Key');
+    }
+
+    (req as any).authInfo = { portfolio: apikey.portfolio };
+    return { ...apikey.portfolio.profile, portfolio: apikey.portfolio };
   }
 }

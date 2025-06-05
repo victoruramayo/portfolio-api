@@ -1,6 +1,5 @@
 import { Controller, Get, Logger, Request, UseGuards } from '@nestjs/common';
 import { PortfolioService } from '../service/portfolio.service';
-import { AuthGuard } from '@nestjs/passport';
 import { RequestApiKeyGuard } from '../../auth/strategies/apikey.strategy';
 import {
   ApiHeader,
@@ -9,6 +8,7 @@ import {
   ApiTags,
   ApiUnauthorizedResponse,
 } from '@nestjs/swagger';
+import { ApiKeyGuard } from '../../auth/guards/api-key.guard';
 
 @ApiSecurity('Api-Key')
 @ApiTags('Portfolio')
@@ -54,7 +54,7 @@ export class PortfolioController {
       },
     },
   })
-  @UseGuards(AuthGuard('apikey'))
+  @UseGuards(ApiKeyGuard)
   @Get('protected')
   getProtect(@Request() req: RequestApiKeyGuard) {
     this.logger.log('Here', req.user);

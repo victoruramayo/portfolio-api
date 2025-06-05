@@ -1,7 +1,6 @@
 import { Controller, Get, Request, UseGuards } from '@nestjs/common';
 import { RequestApiKeyGuard } from '../../auth/strategies/apikey.strategy';
 import { ProjectService } from '../service/project.service';
-import { AuthGuard } from '@nestjs/passport';
 import {
   ApiHeader,
   ApiOkResponse,
@@ -10,6 +9,7 @@ import {
   ApiUnauthorizedResponse,
 } from '@nestjs/swagger';
 import { Project } from '../models/entities/project.entity';
+import { ApiKeyGuard } from '../../auth/guards/api-key.guard';
 
 @ApiSecurity('Api-Key')
 @ApiTags('Portfolio')
@@ -36,10 +36,10 @@ export class ProjectController {
       },
     },
   })
-  @UseGuards(AuthGuard('apikey'))
+  @UseGuards(ApiKeyGuard)
   @Get()
   getProjects(@Request() req: RequestApiKeyGuard) {
-    const { portfolio } = req.authInfo;
+    const { portfolio } = req.user;
     return this.projectService.getProjectsByPortfolioId(portfolio.id);
   }
 }

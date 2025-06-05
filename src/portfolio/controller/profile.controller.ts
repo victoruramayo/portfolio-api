@@ -1,6 +1,5 @@
 import { Controller, Get, Req, UseGuards } from '@nestjs/common';
 import { RequestApiKeyGuard } from '../../auth/strategies/apikey.strategy';
-import { AuthGuard } from '@nestjs/passport';
 import {
   ApiHeader,
   ApiOkResponse,
@@ -9,6 +8,7 @@ import {
   ApiUnauthorizedResponse,
 } from '@nestjs/swagger';
 import { Profile } from '../../auth/models/entities/profile.entity';
+import { ApiKeyGuard } from '../../auth/guards/api-key.guard';
 
 @ApiSecurity('Api-Key')
 @ApiTags('Portfolio')
@@ -34,7 +34,7 @@ export class ProfileController {
     },
   })
   @Get()
-  @UseGuards(AuthGuard('apikey'))
+  @UseGuards(ApiKeyGuard)
   getProfile(@Req() reques: RequestApiKeyGuard) {
     return reques.user;
   }
