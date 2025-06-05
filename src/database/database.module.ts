@@ -18,6 +18,9 @@ import { SnakeNamingStrategy } from 'typeorm-naming-strategies';
           autoLoadEntities: true,
           //logging: true,
           namingStrategy: new SnakeNamingStrategy(),
+          extra: {
+            pgbouncer: conf.database.host !== 'localhost',
+          },
         };
       },
       inject: [envConfig.KEY],
