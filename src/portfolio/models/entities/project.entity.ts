@@ -20,6 +20,11 @@ export enum ProjectType {
   BACK_END = 'Back End',
 }
 
+export enum ProjectOwnershipType {
+  OWNED = 'OWNED',
+  PARTNER = 'EXTERNAL',
+}
+
 @Entity('proyects')
 export class Project {
   @ApiResponseProperty()
@@ -67,4 +72,8 @@ export class Project {
   @ApiResponseProperty({ enum: [SocialType] })
   @Column({ type: 'enum', enum: ProjectType, array: true, nullable: false })
   types: ProjectType[];
+
+  @ApiResponseProperty({ enum: ProjectOwnershipType })
+  @Column({ type: 'enum', enum: ProjectOwnershipType, nullable: false })
+  ownerShip: ProjectOwnershipType;
 }

@@ -3,12 +3,14 @@ import {
   CreateDateColumn,
   Entity,
   JoinColumn,
+  OneToMany,
   OneToOne,
   PrimaryGeneratedColumn,
   UpdateDateColumn,
 } from 'typeorm';
 import { User } from './user.entity';
 import { ApiHideProperty, ApiResponseProperty } from '@nestjs/swagger';
+import { Skill } from '../../../skills/models/entities/skiill.entity';
 
 @Entity('profiles')
 export class Profile {
@@ -66,4 +68,10 @@ export class Profile {
   @OneToOne(() => User, { nullable: false })
   @JoinColumn()
   user: User;
+
+  @ApiResponseProperty()
+  @OneToMany(() => Skill, (s) => s.profile, {
+    cascade: true,
+  })
+  skills: Skill[];
 }
